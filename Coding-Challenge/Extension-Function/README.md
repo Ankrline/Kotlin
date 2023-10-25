@@ -8,7 +8,7 @@ As Extension Functions, ou Funções de Extensão, são recursos poderosos dispo
 Neste desafio, com foco em um sistema de gerenciamento de livros para uma biblioteca digital, você deve implementar uma solução que permita gerar um "slug" único para representar os dados de um livro. Um "slug" é uma versão simplificada e amigável para URLs de um texto, com espaços substituídos por traços (-) e caracteres especiais removidos. A solução requer que você crie uma função de extensão `generateSlug()` para a classe `String` que fará essa transformação.
 
 ## Objetivo 🫧
-```Gerando Slugs de Livros```
+```Repositório desenvolvido para fins didáticos, o desafio é criar e gerar Slugs de Livros```
 
 ## Funcionalidade a ser implementada 🫧
 
@@ -59,7 +59,7 @@ Extension Functions, also known as Extension Methods, are powerful features avai
 In this challenge, focusing on a book management system for a digital library, you are required to implement a solution that allows generating a unique "slug" to represent book data. A "slug" is a simplified and URL-friendly version of text, with spaces replaced by hyphens (-) and special characters removed. The solution requires you to create an extension function `generateSlug()` for the `String` class that performs this transformation.
 
 ## Objective 🫧
-```Generating Book Slugs```
+```Repository developed for educational purposes, the challenge of creating and generating Book Slugs```
 
 ## Functionality to be implemented 🫧
 
