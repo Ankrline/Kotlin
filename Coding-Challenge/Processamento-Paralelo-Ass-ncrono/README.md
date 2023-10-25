@@ -1,6 +1,6 @@
 <h1>
     <img width="45" src="https://img.icons8.com/pulsar-line/48/upside-down-icon.png" alt="upside-down-icon"/>
-    <span> Processamento-Paralelo-Ass-ncrono (PT/BR) </span>
+    <span> Processamento Paralelo/Assíncrono (PT/BR) </span>
 </h1> 
 
 No mundo da programação, frequentemente enfrentamos situações onde múltiplas tarefas precisam ser executadas simultaneamente para otimizar o tempo de resposta ou processamento. Um exemplo comum é o download de múltiplos arquivos da internet.
