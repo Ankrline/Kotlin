@@ -1,7 +1,5 @@
 <h1>
-    <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
-    </a>
+    <img width="45" src="https://img.icons8.com/pulsar-line/48/upside-down-icon.png" alt="upside-down-icon"/>
     <span> Builder (PT/BR) </span>
 </h1>
  
@@ -9,10 +7,10 @@ O Design Pattern "Builder" é uma técnica utilizada para criar objetos complexo
 
 Neste desafio, buscando soluções para um problema de negócios em uma plataforma de e-commerce, é necessário melhorar a forma como os pedidos personalizados são tratados. Você tem a opção de implementar a solução utilizando o padrão Builder para criar pedidos de forma mais eficiente e organizada, ou seguir uma abordagem alternativa sem a necessidade de utilizar o padrão Builder.
 
-## Objetivo 🎯
+## Objetivo 🫧
 ```Repositório desenvolvido para fins didáticos, o desafio é construir um Pedido Personalizado```
 
-## Detalhamento da tarefa 🎯
+## Detalhamento da tarefa 🫧
 
 >1. Capture o nome do cliente.
 >
@@ -26,7 +24,7 @@ Neste desafio, buscando soluções para um problema de negócios em uma platafor
 >
 >6. Imprima os detalhes do pedido, incluindo os produtos, seus preços, quantidades, total a pagar e endereço de entrega.
 
-### Entrada
+### Entrada 
 O programa deve receber as seguintes informações do usuário:
 
 >1. Nome do cliente (string);
@@ -40,7 +38,7 @@ O programa deve receber as seguintes informações do usuário:
 >
 >2. Para este desafio, considere apenas uma casa decimal após a vírgula.
 
-## Exemplos
+## Exemplos 🫧
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 <table>
@@ -62,13 +60,11 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
   </tr>
 </table>table>
   
-## Nota:
+## Nota 🫧
 O padrão Builder é uma abordagem valiosa quando se trata de criar objetos complexos com diferentes configurações. No entanto, deve-se considerar a relação entre a complexidade do problema e a necessidade de aplicar o padrão, especialmente em cenários mais simples. A decisão de usar ou não o padrão Builder dependerá das necessidades específicas do projeto e das características do sistema em que está sendo aplicado.
 
 <h1>
-    <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
-    </a>
+    <img width="45" src="https://img.icons8.com/pulsar-line/48/upside-down-icon.png" alt="upside-down-icon"/>
     <span> Builder (EN) </span>
 </h1>
 
@@ -76,10 +72,10 @@ The "Builder" Design Pattern is a technique used to create complex objects step 
 
 In this challenge, while seeking solutions to a business problem in an e-commerce platform, there is a need to improve how custom orders are handled. You have the option to implement the solution using the Builder pattern to create orders more efficiently and organized, or follow an alternative approach without the need for using the Builder pattern.
 
-## Objective 🎯
+## Objective 🫧
 ```Repository developed for didactic purposes, the challenge is to build a Custom Order.```
 
-## Task Details 🎯
+## Task Details 🫧
 
 >1. Capture the customer's name.
 >
@@ -129,5 +125,5 @@ The table below presents examples with some input data and their respective expe
   </tr>
 </table>
 
-## Note:
+## Note 🫧
 The Builder pattern is a valuable approach when dealing with creating complex objects with different configurations. However, the decision to use the Builder pattern or not should depend on the specific needs of the project and the characteristics of the system in which it is being applied, particularly in simpler scenarios.
