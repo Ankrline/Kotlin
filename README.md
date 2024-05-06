@@ -12,10 +12,10 @@
 <br>
 <h2>Estrutura do Repositório🫧</h2>
 <ul>
-<li><strong>API Rest com Kotlin:</strong> Este desafio envolve a criação de uma API Rest completa em Kotlin, documentando seus endpoints usando a especificação OpenAPI e implementando testes automatizados para garantir o funcionamento correto da API. O objetivo é desenvolver habilidades em documentação e teste de APIs Rest utilizando Kotlin.</li>
+<li><strong>API Rest with Kotlin:</strong> Este desafio envolve a criação de uma API Rest completa em Kotlin, documentando seus endpoints usando a especificação OpenAPI e implementando testes automatizados para garantir o funcionamento correto da API. O objetivo é desenvolver habilidades em documentação e teste de APIs Rest utilizando Kotlin.</li>
 <li><strong>Coding-Challenge:</strong> Este repositório contém diferentes desafios relacionados a padrões de design em Kotlin. Cada pasta representa um desses padrões e contém uma descrição do desafio e possíveis soluções. É uma ótima oportunidade para explorar e praticar padrões de design em Kotlin.</li>
-<li><strong>Padrões de Projetos com Java:</strong> Este desafio incentiva a exploração e implementação de padrões de projetos em Kotlin na prática. Você pode reproduzir projetos desenvolvidos durante aulas ou criar novas ideias do zero, aplicando os conceitos aprendidos sobre padrões de projeto.</li>
-<li><strong>Documentação:</strong> Cada pasta contém seu próprio README com instruções específicas, descrição do desafio e possíveis soluções. Além disso, tenho uma pasta separada dedicada às documentações do Kotlin, para que você possa buscar referências ou tirar dúvidas.</li>
+<li><strong>Design Patterns with Java:</strong> Este desafio incentiva a exploração e implementação de padrões de projetos em Kotlin na prática. Você pode reproduzir projetos desenvolvidos durante aulas ou criar novas ideias do zero, aplicando os conceitos aprendidos sobre padrões de projeto.</li>
+<li><strong>Documentation:</strong> Cada pasta contém seu próprio README com instruções específicas, descrição do desafio e possíveis soluções. Além disso, tenho uma pasta separada dedicada às documentações do Kotlin, para que você possa buscar referências ou tirar dúvidas.</li>
 </ul>
 <br>
 <h2>Outras Referências🫧</h2>
